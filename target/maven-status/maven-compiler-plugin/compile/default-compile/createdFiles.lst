@@ -1,0 +1,11 @@
+NetworkSpeed.class
+BlockNetworkRequests.class
+BasicAuthentication2.class
+NetworkFailedRequest.class
+ConsoleLogsCapture.class
+CdpCommandsTest.class
+NetworkLogActivity.class
+MobileEmulatorTest.class
+NetworkMocking.class
+SetGeoLocation.class
+BasicAuthentication.class
